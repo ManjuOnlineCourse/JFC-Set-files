@@ -1,0 +1,11 @@
+{
+	"SubmissionData": {
+		"name": "SubmissionData",
+		"dataType": "Obejct",
+		"Properties": {"userId":{
+"name":"userId","dataType":"Number"
+},"id":{
+"name":"id","dataType":"Number"
+},"title":{
+"name":"title","dataType":"Text"
+}}}}
